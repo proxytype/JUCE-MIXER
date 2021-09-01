@@ -3,7 +3,7 @@
 
     MixerChannel.h
     Created: 30 Aug 2021 2:22:38am
-    Author:  Pandora
+    Author:  proxytype
 
   ==============================================================================
 */
