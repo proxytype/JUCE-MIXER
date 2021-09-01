@@ -1,5 +1,5 @@
 # JUCE-MIXER
-Simple 2 Channels audio mixer based on JUCE Audio framework.
+2 Channels audio mixer example based on JUCE Audio framework.
 
 ![Mixer](https://raw.githubusercontent.com/proxytype/JUCE-MIXER/main/mixer.JPG)
 
